@@ -1,0 +1,31 @@
+QUESTION:To implement an Azure MFA solution, you must sync on-premises identities to the cloud.
+a)True
+b)False
+ANSWER:False
+
+QUESTION:Azure MFA can be required for administrative and non-administrative user accounts.
+a)True
+b)False
+ANSWER:True
+
+QUESTION:Azure Key Vault is used to store secrets for __________ 
+a)Azure Active Directory user accounts
+b)Azure Active Directory administrator accounts
+c)Personally Identifiable Information
+d)Server applications
+ANSWER:Server applications
+
+QUESTION:Which Azure service would you use to enforce Azure MFA based on a condition?
+a)Azure Monitor
+b)Azure Security Center
+c)Azure AD Identity Protection
+d)Azure Advanced Threat Protection(ATP)
+ANSWER:Azure AD Identity Protection
+
+QUESTION:Which Azure service can you use as a security information and event management (SIEM) solution?
+a)Azure Analysis Service
+b)Azure Sentinel
+c)Azure Cognitive Services
+d)Azure Information Protection
+ANSWER:Azure Sentinel
+
